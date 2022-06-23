@@ -1,0 +1,9 @@
+[INFO]  [Train_Len] 17559
+[INFO]  [Text_Len] 5746
+[INFO]  [Valid_len] 263
+[INFO]  [count]128;[Prediction] 0.000781%
+[INFO]  [count]128;[Recall]0.003906.
+[INFO]  [count]128;[Hit]0.007812.
+[INFO]  [A_Prediction] 0.000781
+[INFO]  [A_Recall]0.003906
+[INFO]  [A_Hit]0.007812
